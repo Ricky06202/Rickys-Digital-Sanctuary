@@ -103,7 +103,7 @@ echo $(which fish) | sudo tee -a /etc/shells
 chsh -s $(which fish)
 ```
 
-***Windows***
+### Windows
 si lo haces en windows recuerda darle una clave al root de wsl
 
 ```powershell
